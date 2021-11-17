@@ -6,25 +6,25 @@ Sbírka dat je určena pro usnadnění kontaktování dotyčných, ať to máme 
 Druhou variantu (oddělené čárkami) lze vložit do většiny e-mail klientů do pole "Komu", mail dorazí všem.
 Veselou zábavu přeji a k ničemu nenavádím 😈
 
-Po řádkách:
-kontakt@daniel-landa.cz
-eshop@daniel-landa.cz
-media@daniel-landa.cz
-romana.bobkova@protonmail.com
-petr.kolonicz@protonmail.com
-josef.matous@protonmail.com
-jiri.hanc@protonmail.com
-david.stranskyZlatyspendlik@protonmail.com
-radek.jaros@protonmail.com
-libor.ondra@protonmail.com
-marek.absnajdr@protonmail.com
-jan.tkadlec1@protonmail.com
+Po řádkách:  
+kontakt@daniel-landa.cz  
+eshop@daniel-landa.cz  
+media@daniel-landa.cz  
+romana.bobkova@protonmail.com  
+petr.kolonicz@protonmail.com  
+josef.matous@protonmail.com  
+jiri.hanc@protonmail.com  
+david.stranskyZlatyspendlik@protonmail.com  
+radek.jaros@protonmail.com  
+libor.ondra@protonmail.com  
+marek.absnajdr@protonmail.com  
+jan.tkadlec1@protonmail.com  
 michal.martinik@protonmail.com
 
-S čárkou (pro e-mail klienty):
+S čárkou (pro e-mail klienty):  
 kontakt@daniel-landa.cz, eshop@daniel-landa.cz, media@daniel-landa.cz, romana.bobkova@protonmail.com, petr.kolonicz@protonmail.com, josef.matous@protonmail.com, jiri.hanc@protonmail.com, david.stranskyZlatyspendlik@protonmail.com, radek.jaros@protonmail.com, libor.ondra@protonmail.com, marek.absnajdr@protonmail.com, jan.tkadlec1@protonmail.com, michal.martinik@protonmail.com
 
-Zdroje adres:
-https://www.daniel-landa.cz/kontakty
+Zdroje adres:  
+https://www.daniel-landa.cz/kontakty  
 https://zlatyspendlik.cz/kontakty-na-koordinatory/
 
